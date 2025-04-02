@@ -23,6 +23,15 @@ If you don’t have tkcalendar, you can install it using:
 pip install tkcalendar
 
 
+
+
+1)Troe1
 ![add new room](https://github.com/user-attachments/assets/330aa80b-3cca-4116-a001-1696089658ae)
 
 
+2)Troe2
+![Dasebard](https://github.com/user-attachments/assets/a79515eb-22e4-4e79-8b23-21a3f35f2b28)
+
+
+3)Troe3
+![Screenshot 2025-04-02 092041](https://github.com/user-attachments/assets/a905790e-295a-43d3-a254-7e82c28ac8d2)
